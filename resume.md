@@ -21,12 +21,10 @@ Software Engineer
 1989 - 1993, **BS Computer Science**, AMA Computer University, Makati City, Philippines
 
 ## Trainings / Certifications
-
 * 2004 BrainBench Visual C++ Certification
 * 2001 BrainBench Computer Industry Knowledge Certification
 * 2001 BrainBench C++ Certification
 * 2001 BrainBench C Certification
 * 2001 BrainBench OOP Concepts Certification
-
 * 1999 Objective Systems Integrators, NetExpert Framework (Folsom, CA)
 * 2000 DMR Macroscope (Sydney, Australia)
