@@ -3,7 +3,7 @@ Software Engineer
 
 ## Personal Info
 * Email: [erwin.alva@gmail.com](mailto:erwin.alva@gmail.com)
-* Website: [http://dottytech.com](http://dottytech.com)
+* Website: [dottytech.com](http://dottytech.com)
 * Mobile: +1 (310) 894-6448
 
 ## Experience
