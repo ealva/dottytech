@@ -7,8 +7,6 @@ I'm looking to work for an organization that can leverage my skill sets, has mat
 * Mobile: +1 (310) 894-6448
 * Proud US citizen since 2015
 
-I was exposed to computers at a (relatively) young age starting with a Commodore 64 using BASIC and 6502 assembly, then C and x86 assembly.
-
 ## Professional Summary
 * Software Architecture and Design
 * Software Integration, Deployment, and Release Management
@@ -21,7 +19,11 @@ I was exposed to computers at a (relatively) young age starting with a Commodore
 * Universal Windows Platform (UWP, WinRT)
 * Win32 (C++, WTL/ATL, MFC)
 * SQL Server
-* Windows (primary), UNIX-like (Linux, HP-UX, Solaris)
+* Windows (primary), Linux, Windows CE
+
+### Primary Toolsets
+* Visual Studio / Team Foundation Server
+* Visual Studio Code / Git
 
 ## Industries
 * Biometrics
@@ -31,14 +33,30 @@ I was exposed to computers at a (relatively) young age starting with a Commodore
 ## Work Experience
 
 ### NEC Corporation of America (Rancho Cordova, CA), Sr. Software Engineer, 2007 to present
+* Lead a small team in defining and implementing next-generation user interfaces for the
+company's flagship biometric identification system based on Microsoft's Universal Windows Platform.
+* Lead the design and development of an investigative facial recognition product that kicked-off
+widespread adoption of the technology.  Based on WinRT (the precursor of UWP), the architecture
+became the basis for the redesign of other flagship products.
+* As a member of a cross-functional team, helped open up the Canadian market that was lost to the
+competition by demonstrating, then ultimately implementing a facial recognition solution.
+* As a member of the development team, lead the initial design and platform for the company's
+first US-developed fingerprint identification application.  For several years across tens of
+local and state-wide projects, we have steadily enhanced the product to satisfy customer
+requirements.
 
 ### United Information Technology (Southfield, MI), Application Development Consultant, 2004 to 2007
-* Provided application development services with Verizon (Irving, TX)
-* Provided application development services with Ernst & Young, LLC (New York, NY)
-* Provided application development services with anyCOMM Corporation (New York, NY)
+* Provided application development services with anyCOMM Corporation (New York, NY).  Lead a small
+team in implementing a "user-interface creation" engine used in a home automation solution based on
+Windows CE.
+* Provided application development services with Ernst & Young, LLC (New York, NY).  Implemented the
+risk analysis feature for futures, options, and swaps (part of a bigger analysis engine for
+hedging derivative risks).
+* Provided application development services with Verizon (Irving, TX).  Implemented the Lotus (now
+IBM) Sametime instant-messaging integration for the "iobi" phone management product.
 
 ### Cormant Technologies (Philippines), Application Development Consultant, 2003 to 2004
-* Provided application development services with DHL. The project was a proof-of-concept for
+* Provided application development services with DHL.  The project was a proof-of-concept for
 testing the viability of replacing barcodes with RFID tags.
 
 ### Fujitsu Philippines, Application Development Engineer / Solutions Architect, 1996 to 2003
