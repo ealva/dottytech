@@ -3,7 +3,7 @@ I'm looking to work for an organization that can leverage my skill sets, has mat
 
 ## Personal Info
 * Email: [erwin.alva@gmail.com](mailto:erwin.alva@gmail.com)
-* Website: [dottytech.com](http://dottytech.com)
+* Website: [dottytech.com](https://www.dottytech.com)
 * Mobile: +1 (310) 894-6448
 * Proud US citizen since 2015
 
