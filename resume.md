@@ -51,14 +51,14 @@ I'm looking to work for an organization that can leverage my skill sets, has mat
 
 ### NEC Corporation of America (Rancho Cordova, CA), Sr. Software Engineer, 2007 to present
 
-* Lead a small team in defining and implementing next-generation user interfaces for the company's flagship biometric identification system based on Microsoft's Universal Windows Platform.
-* Lead the design and development of an investigative facial recognition product that kicked-off widespread adoption of the technology.  Based on WinRT (the precursor of UWP), the architecture became the basis for the redesign of other flagship products.
+* Led a small team in defining and implementing next-generation user interfaces for the company's flagship biometric identification system based on Microsoft's Universal Windows Platform.
+* Led the design and development of an investigative facial recognition product that kicked-off widespread adoption of the technology.  Based on WinRT (the precursor of UWP), the architecture became the basis for the redesign of other flagship products.
 * As a member of a cross-functional team, helped open up the Canadian market that was lost to the competition by demonstrating, then ultimately implementing a facial recognition solution.
-* As a member of the development team, lead the initial design and platform for the company's first US-developed fingerprint identification application.  For several years across tens of local and state-wide projects, we have steadily enhanced the product to satisfy customer requirements.
+* As a member of the development team, led the initial design and platform for the company's first US-developed fingerprint identification application.  For several years across tens of local and state-wide projects, we have steadily enhanced the product to satisfy customer requirements.
 
 ### United Information Technology (Southfield, MI), Application Development Consultant, 2004 to 2007
 
-* Provided application development services with anyCOMM Corporation (New York, NY).  Lead a small team in implementing a "user-interface creation" engine used in a home automation solution based on Windows CE.
+* Provided application development services with anyCOMM Corporation (New York, NY).  Led a small team in implementing a "user-interface creation" engine used in a home automation solution based on Windows CE.
 * Provided application development services with Ernst & Young, LLC (New York, NY).  Implemented the risk analysis feature for futures, options, and swaps (part of a bigger analysis engine for hedging derivative risks).
 * Provided application development services with Verizon (Irving, TX).  Implemented the Lotus (now IBM) Sametime instant-messaging integration for the "iobi" phone management product.
 
@@ -68,8 +68,8 @@ I'm looking to work for an organization that can leverage my skill sets, has mat
 
 ### Fujitsu Philippines, Application Development Engineer / Solutions Architect, 1996 to 2003
 
-* As part of a global software development team, lead a small local team in the implementation of WOSA/XFS device drivers for Fujitsu's (then) next-generation automated teller machines.
-* Lead a small development team that enabled the company to achieve ISO 9001:2000 certification.
+* As part of a global software development team, led a small local team in the implementation of WOSA/XFS device drivers for Fujitsu's (then) next-generation automated teller machines.
+* Led a small development team that enabled the company to achieve ISO 9001:2000 certification.
 * As part of the first solutions architecture team, worked on ensuring that the technical viability
 of the company's responses to project bids are sound and solid.
 * The dot-com bubble of 2000-2002 significantly affected the company and I was laid off (among others) towards the end of 2003.
@@ -80,7 +80,7 @@ of the company's responses to project bids are sound and solid.
 
 ### J & D.O. Aguilar Corp. (Philippines), Software Applications Specialist, 1993 to 1995
 
-* Lead the "computerization" project of this small family-owned business and provided
+* Led the "computerization" project of this small family-owned business and provided
 technical advise to the company president.
 
 ## Education
